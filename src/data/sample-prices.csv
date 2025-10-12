@@ -1,0 +1,27 @@
+fecha,region,mercado,producto,unidad,precio_prom
+2025-07-15,Lima,GMML,Papa Amarilla,Saco (100 kg),110
+2025-07-22,Lima,GMML,Papa Amarilla,Saco (100 kg),114
+2025-07-29,Lima,GMML,Papa Amarilla,Saco (100 kg),112
+2025-08-05,Lima,GMML,Papa Amarilla,Saco (100 kg),116
+2025-08-12,Lima,GMML,Papa Amarilla,Saco (100 kg),118
+2025-08-19,Lima,GMML,Papa Amarilla,Saco (100 kg),117
+2025-08-26,Lima,GMML,Papa Amarilla,Saco (100 kg),119
+2025-09-02,Lima,GMML,Papa Amarilla,Saco (100 kg),121
+
+2025-07-15,Junín,Huancayo,Papa Amarilla,Saco (100 kg),98
+2025-07-22,Junín,Huancayo,Papa Amarilla,Saco (100 kg),99
+2025-07-29,Junín,Huancayo,Papa Amarilla,Saco (100 kg),101
+2025-08-05,Junín,Huancayo,Papa Amarilla,Saco (100 kg),103
+2025-08-12,Junín,Huancayo,Papa Amarilla,Saco (100 kg),104
+2025-08-19,Junín,Huancayo,Papa Amarilla,Saco (100 kg),105
+2025-08-26,Junín,Huancayo,Papa Amarilla,Saco (100 kg),106
+2025-09-02,Junín,Huancayo,Papa Amarilla,Saco (100 kg),107
+
+2025-07-15,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.1
+2025-07-22,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.0
+2025-07-29,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.3
+2025-08-05,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.4
+2025-08-12,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.6
+2025-08-19,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.7
+2025-08-26,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.5
+2025-09-02,Cusco,Cusco Mayorista,Cebolla Roja,Kg,2.8
