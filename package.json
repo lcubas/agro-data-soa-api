@@ -13,6 +13,7 @@
   },
   "main": "src/index.js",
   "dependencies": {
+    "awilix": "^12.0.5",
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "csv-parse": "^5.5.6",
